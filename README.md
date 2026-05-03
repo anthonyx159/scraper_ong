@@ -14,7 +14,7 @@ Un proyecto completo de web scraping escalable para extraer oportunidades de [We
 
 ## 📋 Requisitos
 
-- Node.js >= 18.x
+- Node.js >= 20.x
 - npm o yarn
 - Cuenta de Google (para Google Sheets API)
 
